@@ -23,9 +23,7 @@ function Game() {
       });
   }, []);
 
-  function handlePurchase(card) {
-    alert(`Purchased ${card.title}. Enjoy.`);
-  }
+  
 
   function handleRatingChange(index, newRating) {
     const updatedCardData = [...cardData];
