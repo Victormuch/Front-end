@@ -28,7 +28,8 @@ Fetches and displays a list of upcoming games. Provides release dates and other 
 The back-end is built using python and using FastAPI 
 The back-end handles the following functionalities:
 
-
+# Creating available games table
+Fetches the list of available games.
 # Creating game on offer table
 Fetches the list of games on offer.
 # Creating upcoming games table
