@@ -21,9 +21,11 @@ function Game() {
       .catch((error) => {
         console.error("Error fetching data:", error);
       });
-  }, [])
+  }, []);
 
-  
+  function handlePurchase(card) {
+    alert(`Purchased ${card.title}. Enjoy.`);
+  }
 
   function handleRatingChange(index, newRating) {
     const updatedCardData = [...cardData];
