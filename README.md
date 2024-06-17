@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1U0HjXraUhNOaXi-YhgMKwriUMdefMqi4/view?usp=shari
 ## Below is the link to my Back-End repository
 https://github.com/Victormuch/Game-app.git
 
-## Front-End Components
+# Front-End Components
 
 # Login page
 Handles user login with a form to capture username, email, and password. On successful login, navigates to the home page.
