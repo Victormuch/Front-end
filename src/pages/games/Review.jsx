@@ -17,7 +17,7 @@ function Review({ rating, setRating }) {
           >
             ★
           </span>
-        );
+        )
       })}
     </div>
   );
