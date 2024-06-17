@@ -63,8 +63,4 @@
   .btn-success:hover {
     background-color: #218838;
   }
-.next-page {
-  display: flex;
-  justify-content: flex-end;
-  padding: 10px; 
-}
+
