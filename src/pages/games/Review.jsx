@@ -12,7 +12,7 @@ function Review({ rating, setRating }) {
               fontSize: "35px",
             }}
             onClick={() => {
-              setRating(star)
+              setRating(star);
             }}
           >
             ★
